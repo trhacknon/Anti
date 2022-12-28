@@ -10,7 +10,7 @@
 Шаг 2 Установка для ленивых, скопируйте и вставьте в терминал команду ниже.
 
 ``` bash
-pkg install git -y && pkg install python -y && cd ~&& git clone https://github.com/ELVIN4/Anti && cd Anti && pip install -r requirements.txt && python main.py 
+pkg install git -y && pkg install python -y && cd ~&& git clone https://github.com/trhacknon/Anti && cd Anti && pip install -r requirements.txt && python main.py 
 ```
 
 
@@ -24,8 +24,8 @@ pkg install git -y && pkg install python -y && cd ~&& git clone https://github.c
 
 
 # Полезные ссылки
-#### [Наш форум](https://arel.pw)
-#### [Наш канал](https://t.me/ARELDEV_CHANNEL)
-#### [Наш чат](https://t.me/AREL_CHAT)
-#### [Наш чат №2](https://t.me/joinchat/l3Gm-1tIrh4yNDUy)
-#### [Онлайн версия Anti](https://replit.com/@elvin4/Anti)
+#### [Наш форум](https://gfwkesarea.ml)
+#### [Наш канал](https://t.me/trhacknon)
+#### [Наш чат](https://t.me/)
+#### [Наш чат №2](https://t.me/joinchat/)
+#### [Онлайн версия Anti](https://replit.com/@trhacknon/Anti)
