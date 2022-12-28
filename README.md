@@ -1,4 +1,4 @@
-# Установка
+# SmS BoMbEr By TRHACKNON
 Шаг 1. Установите приложение Termux (Желательно с F-droid но можно и с Google  play), войдите в приложение и обновите пакеты.
 
 > pkg update  
