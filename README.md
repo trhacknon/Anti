@@ -28,4 +28,4 @@ pkg install git -y && pkg install python -y && cd ~&& git clone https://github.c
 #### [Наш канал](https://t.me/trhacknon)
 #### [Наш чат](https://t.me/)
 #### [Наш чат №2](https://t.me/joinchat/)
-#### [Онлайн версия Anti](https://replit.com/@trhacknon/Anti)
+#### [Онлайн версия Anti](https://replit.com/@trhacknon/Anti-1)
